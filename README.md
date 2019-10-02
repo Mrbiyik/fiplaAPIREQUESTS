@@ -1,3 +1,7 @@
+![FIPLA](https://user-images.githubusercontent.com/20922493/66070286-b4d1a900-e559-11e9-8c2c-65d792ca92b2.JPG)
+
+
+
 # LÜTFEN BURAYI OKUYUNUZ!
   Google Nearby API uygulamasının kota sınırı olduğu için. Sürekli OVER_LIMIT hatası aldım.
   Bu yüzden aldığım örnek cevaplar ile kendi kodumu test ettim.
